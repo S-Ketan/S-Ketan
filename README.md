@@ -14,7 +14,7 @@
 
 <p align="center">
     Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
-<a href="www.linkedin.com/in/ketan-sharma-732181333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahildhilon" height="40" width="50" /></a>
+<a href="www.linkedin.com/in/ketan-sharma-732181333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KetanSharma" height="40" width="50" /></a>
 
 </p>
 <h4 align="center"> 📩 Get in touch: <a href="mailto:ketan10923@gmail.com">Ketan10923@gmail.com</a> </h4>
@@ -29,7 +29,7 @@
 <h2 align="center"><img src="https://github.com/S-Ketan/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
 
 <div align="center" width="50%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Ketan&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Ketan&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ketan's GitHub Streak" /></p>
 </div>
 
 <div align="center">
