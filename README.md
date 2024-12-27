@@ -19,7 +19,7 @@
 </p>
 <h4 align="center"> 📩 Get in touch: <a href="mailto:ketan10923@gmail.com">Ketan10923@gmail.com</a> </h4>
 <!--view count-->
-<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=S-Ketan&&style=for-the-badge" /> </p>
+<!--<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=S-Ketan&&style=for-the-badge" /> </p>-->
 
 <!--line-->
 <!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
